@@ -1,3 +1,4 @@
 # requirements file for Read The Docs
 # http://readthedocs.org/docs/nose/
 sphinx>=1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
